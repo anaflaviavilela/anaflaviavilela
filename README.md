@@ -71,10 +71,14 @@
 
 ---
 
-## 📈 Gráfico de atividade
+## 🐍 Minhas contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaflaviavilela&theme=synthwave&hide_border=true&area=true" alt="Gráfico de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
