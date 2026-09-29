@@ -40,27 +40,15 @@
 <div align="center">
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anaflaviavilela&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anaflaviavilela&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anaflaviavilela&show_icons=true&hide_border=true" alt="Estatísticas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/main/profile-summary-card-output/github/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas" />
 </picture>
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviavilela&layout=compact&theme=synthwave&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviavilela&layout=compact&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviavilela&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/anaflaviavilela/anaflaviavilela/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" />
 </picture>
 
 <br/>
